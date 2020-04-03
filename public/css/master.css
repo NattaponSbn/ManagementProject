@@ -1,0 +1,114 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    font-size: 12%;
+    background: #582B9E;
+}
+
+.header {
+    width: 30%;
+    margin: 10px auto 25px;
+    color: white;
+    text-align: center;
+}
+
+.header h2 {
+    font-size: 30px;
+
+}
+
+p {
+    color: white;
+    font-size: 15px;
+}
+
+form, .content {
+    width: 30%;
+    margin: 150px auto 25px;
+    padding: 30px;
+    border: 1px solid #D9A327;
+    
+}
+
+.input-group {
+    margin: 10px 0px 10px 0px ;
+}
+
+.input-group label {
+    display: block;
+    text-align: left;
+    margin: 3px;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.input-group1 label {
+    display: block;
+    text-align: left;
+    margin: 15px;
+    color: white;
+    font-size: 16px;
+    margin-left: 320px;
+    margin-top: -65px;
+    
+}
+
+.input-group input {
+    height: 20px;
+    width: 40%;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.input-group1 input {
+    height: 20px;
+    width: 40%;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-left: 320px;
+    margin-top: -300px;
+}
+
+.input-group .sele-gender {
+    height: 30px;
+    width: 20%;
+    padding: 5px 10px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.input-group .sele-county {
+    height: 30px;
+    width: 25%;
+    padding: 5px 10px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #982ACF;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn_next {
+    color: red;
+    font-size: 15px;
+}
